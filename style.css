@@ -1,0 +1,175 @@
+@font-face 
+{
+    font-family: RRegular;
+    src: url(Roboto-Regular.ttf);
+}
+
+@font-face 
+{
+    font-family: RBold;
+    src: url(Roboto-Bold.ttf);
+}
+
+@font-face 
+{
+    font-family: RThin;
+    src: url(Roboto-Thin.ttf);
+}
+
+body
+{
+    font-family: RRegular;
+}
+
+div
+{
+    color: white;
+}
+
+a
+{
+    color: white;
+    text-decoration: none;
+}
+
+.IBIS
+{
+    text-indent: -99999999px;
+    background-image: url("IBIS.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding-bottom: 55%;
+    margin-bottom: -5%;
+}
+
+.button
+{
+    color: white;
+    background-color: #bb0000;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-right: 2%;
+    padding-left: 2%;
+}
+
+.center
+{
+    text-align: center;
+}
+
+.flex
+{
+    display: flex;
+}
+
+.bold
+{
+    font-family: RBold;
+}
+
+.regular
+{
+    font-family: RRegular;
+}
+
+.rtcLogo
+{
+    width: 5%;
+}
+
+.topText
+{
+    margin: auto;
+}
+
+.topBar
+{
+    display: flex;
+    position: fixed;
+    z-index: 10;
+    padding: 1%;
+    top: -1%;
+}
+
+.rtc
+{
+    text-indent: -99999999px;
+    background-image: url("rtc.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding-bottom: 55%;
+    margin-bottom: -5%;
+}
+
+.textOffset
+{
+    margin-left: 3%;
+    font-size: 300%;
+    font-family: RBold;
+    padding-bottom: 20%;
+}
+
+.textOffsetLessPadding
+{
+    margin-left: 3%;
+    font-size: 300%;
+    font-family: RBold;
+    padding-bottom: 1%;
+}
+
+
+.buttonOffset
+{
+    margin-left: 3%;
+    font-size: 300%;
+    font-family: RBold;
+    text-decoration: underline;
+    position: relative;
+    left: 3%;
+}
+
+.smallerTextOffset
+{
+    margin-left: 3%;
+    font-size: 200%;
+    font-family: RThin;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+.smallerTextOffsetLessPadding
+{
+    margin-left: 3%;
+    font-size: 200%;
+    font-family: RThin;
+    padding-bottom: 10%;
+}
+
+.gamestop
+{
+    text-indent: -9999999px;
+    background-image: url("bossDiscord.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding-bottom: 20%;
+}
+
+.gamescreenshot
+{
+    text-indent: -9999999px;
+    background-image: url("gamescreenshot.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding-bottom: 50%;
+}
+
+.jobImg
+{
+    text-indent: -9999999px;
+    background-image: url("jobImg.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding-bottom: 50%;
+}
