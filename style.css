@@ -141,10 +141,10 @@ a
     top: -1%;
 }
 
-.rtc
+.kv
 {
     text-indent: -99999999px;
-    background-image: url("Images/rtc.png");
+    background-image: url("Images/kv.png");
     background-size: 100%;
     background-repeat: no-repeat;
     text-align: center;
